@@ -145,6 +145,7 @@
 .intro-section{
     background-image: url('https://images-eu.ssl-images-amazon.com/images/G/31/Events/img24/MayART24/MayART24_PC_HeaderTY1.jpg');
     height:350px;
+    width:100%;
     background-size: cover;
     display: flex;
     justify-content: center;
